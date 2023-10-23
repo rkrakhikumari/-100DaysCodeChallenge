@@ -1,0 +1,7 @@
+
+item1 = item("phone", 5 ,10000)
+item2 = item("laptop", 3, 100000)
+item3 = item("cables", 10 ,100)
+item4 = item("mouse", 5, 500)
+item5 = item("keyboard", 2 ,3000)
+item6 = item("cpu", 10, 10000)
